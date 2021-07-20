@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1583933044 source:c:\users\62822\documents\bram.c\tugasnad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+
+1583944717 source:e:\backup document\bram.c\tugasnad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dirent.h>
+
